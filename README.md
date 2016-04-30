@@ -29,3 +29,6 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?= \sangbima\sbqrcode\SbQrcode::widget(); ?>```
+
+path for code testing
+file://C:\wamp\www\aaa\runtime\tmp-extensions/yii2-sbqrcode
