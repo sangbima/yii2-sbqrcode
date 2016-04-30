@@ -1,0 +1,21 @@
+{
+    "name": "sangbima/yii2-sbqrcode",
+    "description": "QrCode library for Yii framework 2.0",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","qrcode"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Khairil",
+            "email": "sangbima.net@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "sangbima\\sbqrcode\\": ""
+        }
+    }
+}
